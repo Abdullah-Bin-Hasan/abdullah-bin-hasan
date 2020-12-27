@@ -13,9 +13,7 @@
 <br/>
 <br/>
 
-Contributer at Guardian Project | Cloud Computing | Site Reliability Engineering | DevOps | Software Defined Networking | Python 
 
-## About 
 BSC 3rd Year Information Technology student. Passionate about Cloud Computing, Cyber Security and FLOSS (Free and Open Source Software).
 
 
