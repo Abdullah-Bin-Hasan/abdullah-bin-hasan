@@ -14,7 +14,7 @@
 <br/>
 
 
-BSC 3rd Year Information Technology student. Passionate about Cloud Computing, Cyber Security and FLOSS (Free and Open Source Software).
+I am in my fourth year of studies towards a bachelor's in Information Technology. Passionate about Cloud Computing, Cyber Security and FLOSS (Free and Open Source Software).
 
 
 </br>
