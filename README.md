@@ -1,9 +1,9 @@
- # <a href="https://www.linkedin.com/in/abdullahbinhasan/">Abdullah Bin Hasan</a>
+ # <a href="https://www.linkedin.com/in/abdullah-bin-hasan/">Abdullah Bin Hasan</a>
  
  <a href="https://twitter.com/abdulahbinhasan">
   <img align="left" alt="Ashwani's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/abdullahbinhasan">
+<a href="https://linkedin.com/in/abdullah-bin-hasan">
   <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/abdullah-binhasan">
