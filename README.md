@@ -20,12 +20,8 @@ I am in my fourth year of studies towards a bachelor's in Information Technology
 <br/>
 ---
 
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abdullah-bin-hasan&layout=compact&theme=dark"/>
-
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=abdullah-bin-hasan&&show_icons=true&theme=radical&line_height=27&v=5" alt="GitHub Stats" />
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abdullah-bin-hasan&layout=compact&theme=dark"/> <img src="https://github-readme-stats.vercel.app/api?username=abdullah-bin-hasan&&show_icons=true&theme=radical&line_height=27&v=5" alt="GitHub Stats" />
  
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abdullah-bin-hasan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=abdullah-bin-hasan&theme=onedark)](https://github.com/abdullah-bin-hasan)
