@@ -24,10 +24,6 @@ I am in my fourth year of studies towards a bachelor's in Information Technology
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=abdullah-bin-hasan&layout=compact&theme=dark"/><br>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdullah-bin-hasan)](https://git.io/streak-stats)
-
-![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
-
 
 <img src="https://github-readme-stats.vercel.app/api?username=abdullah-bin-hasan&&show_icons=true&theme=radical&line_height=27&v=5" alt="GitHub Stats" />
  
