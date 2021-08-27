@@ -24,4 +24,3 @@ I am in my fourth year of studies towards a bachelor's in Information Technology
  
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abdullah-bin-hasan&theme=onedark)](https://github.com/abdullah-bin-hasan)
