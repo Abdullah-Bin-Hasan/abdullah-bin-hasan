@@ -14,7 +14,7 @@
 <br/>
 
 
-I am in my fourth year of studies towards a bachelor's in Information Technology. Passionate about Cloud Computing, Cyber Security and FLOSS (Free and Open Source Software).
+Information Technology Graduate. Passionate about Data Engineering, Cloud Computing and FLOSS (Free and Open Source Software).
 
 
 <br/>
