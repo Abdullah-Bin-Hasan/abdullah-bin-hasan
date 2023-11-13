@@ -14,7 +14,7 @@
 <br/>
 
 
-Information Technology Graduate. Passionate about Data Engineering, Cloud Computing and FLOSS (Free and Open Source Software).
+
 
 
 <br/>
